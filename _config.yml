@@ -48,8 +48,8 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics:
-    verify:
+    analytics: UA-62396530-1
+    verify: 0korkoF1Hxnq15IbnPb1P6rAoLV_RlcHikZLK7KklT0
     ad-client:
     ad-slot:
   bing-verify:
