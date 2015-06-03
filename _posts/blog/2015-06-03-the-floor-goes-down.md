@@ -23,7 +23,7 @@ Anyways, I noticed the discrepancies when I was figuring out measurements for th
 
 After talking to Tumbleweed, the company that made the plans and the trailer, I found that they knew about the discrepancies, and they said that they would give me updated plans, but that they might not be finished until MID SUMMER. After much gnashing of teeth, I got some personalized assistance from their drafter and was able to make some more progress.
 
-The first order of business was to add some support to the inside of the porch beams to allow the front wall to extend over the beam and thus make the porch area smaller. Normally, we'd still be framing the porch with treated lumber, but this time we added an extra 2x4 and plywood filler to make sure that the side wall would have a solid base. We bolted that to the trailer beams, and used self tapping screws on the rest of the porch floor framing. 
+The first order of business was to add some support to the inside of the porch beams to allow the front wall to extend over the beam and thus make the porch area smaller. Normally, we (my dad and I) would still be framing the porch with treated lumber, but this time we added an extra 2x4 and plywood filler to make sure that the side wall would have a solid base. We bolted that to the trailer beams, and used self tapping screws on the rest of the porch floor framing. 
 
 <figure>
 	<img src="{{ site.url }}/images/porch-framing.jpg" alt="Porch Framing">
