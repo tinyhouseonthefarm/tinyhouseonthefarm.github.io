@@ -8,7 +8,7 @@ tags: [tinyhouse, framing]
 image:
   feature: loft-beams.jpg
   credit: Kate Sills
-date: 2015-07-25
+date: 2015-08-25
 ---
 
 Got a bunch of lumber today, and started cutting pieces for the loft and putting them in place. The workbench is coming in handy!

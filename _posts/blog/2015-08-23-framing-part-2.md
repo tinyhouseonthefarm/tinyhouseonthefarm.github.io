@@ -8,7 +8,7 @@ tags: [tinyhouse, framing]
 image:
   feature: plywood-up-large.jpg
   credit: Kate Sills
-date: 2015-07-23
+date: 2015-08-23
 ---
 
 The walls are finally up! 

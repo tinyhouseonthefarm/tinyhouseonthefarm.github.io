@@ -8,7 +8,7 @@ tags: [woodworking]
 image:
   feature: workbench-large.jpg
   credit: Kate Sills
-date: 2015-07-23
+date: 2015-08-23
 ---
 
 I have a huge delivery of lumber for the lofts and roof coming on Monday, so in the meantime, I bought a miter saw in order to cut the rafters, and, in the fashion of "If you give a mouse a cookie...", I had to make a workbench to go along with it. 
